@@ -1,6 +1,6 @@
 import pyfiglet
 
-# Generar el texto con pyfiglet
+# Generar el texto
 texto = "SweetShop"
 figlet_text = pyfiglet.figlet_format(texto)
 
