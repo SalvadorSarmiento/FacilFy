@@ -1,8 +1,8 @@
 import pyfiglet
 from colorama import Fore, Style
 
-# Definir colores (Marrón no existe en colorama, usamos rojo oscuro como alternativa)
-COLORS = [Fore.LIGHTRED_EX, Fore.YELLOW, Fore.RED]  # Naranja, Amarillo, Marrón (Rojo oscuro)
+# Definir colores 
+COLORS = [Fore.LIGHTRED_EX, Fore.YELLOW, Fore.RED]  # Naranja, Amarillo, Marrón (Rojo oscuro porque no hay marro :c )
 
 # Texto base
 texto = "SweetShop"
