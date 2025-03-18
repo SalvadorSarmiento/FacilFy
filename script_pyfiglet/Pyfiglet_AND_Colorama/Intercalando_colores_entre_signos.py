@@ -5,7 +5,7 @@ from colorama import Fore, Style
 COLORS = [Fore.RED, Fore.YELLOW, Fore.LIGHTYELLOW_EX]
 
 # Generar texto con pyfiglet
-texto = "SweetShop"
+texto = "Hola Mundo"
 figlet_text = pyfiglet.figlet_format(texto)
 
 # Aplicar colores intercalados

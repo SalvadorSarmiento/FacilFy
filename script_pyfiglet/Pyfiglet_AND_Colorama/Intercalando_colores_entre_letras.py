@@ -5,7 +5,7 @@ from colorama import Fore, Style
 COLORS = [Fore.LIGHTRED_EX, Fore.YELLOW, Fore.RED]  # Naranja, Amarillo, Marrón (Rojo oscuro porque no hay marro :c )
 
 # Texto base
-texto = "SweetShop"
+texto = "Hola Mundo"
 
 # Convertir cada letra en ASCII con pyfiglet
 figlet_letters = [pyfiglet.figlet_format(char) for char in texto]
